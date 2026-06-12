@@ -1,0 +1,13 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: Playlist
+  description: Playlist (CSS)
+  annotations:
+    github.com/project-slug: tokyandria001/Playlist
+  tags:
+    - css
+spec:
+  type: website
+  lifecycle: experimental
+  owner: guests
